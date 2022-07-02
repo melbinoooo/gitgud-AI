@@ -60,6 +60,39 @@ Deep Q Learning - Extends the Reinforcement Learning by using Deep Neural Networ
 
 
 
+# Mechanics:
+
+- [ ]  Rewards
+    - eat food: +10
+    - game over: -10
+    - elseL 0
+
+- [ ]  Action (determines the next move)
+    - [1,0,0]: keep-straight
+    - [0,1,0]: true-right-turn
+    - [0,0,1]: true-left-turn
+
+- [ ]  State (Telling the 'snake' the information about the 'environment/game' or rules) // Calculations
+    - 11 Values (for this enviroment/game)
+      -  [
+      -  danger straight, danger right, danger left,
+      -  
+      -  direction left, direction right,
+      -  direction up, direction down,
+      -  
+      -  food left, food right,
+      -  food up, food down,
+      -  ]
+      -  
+         -  Sample Actions based on State
+            -  if there is no danger nearby (collision, corner of enviroment)
+            -  [0,0,0]: Take Action
+            -  if there is a food at the right [left,right,up,down]
+            -  [0,1,0,0]: Take Action
+
+
+! (/01-Information-Images/Framework.PNG)
+
 <br>
 </br>
 <br>
