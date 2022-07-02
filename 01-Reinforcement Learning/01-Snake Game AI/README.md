@@ -91,7 +91,7 @@ Deep Q Learning - Extends the Reinforcement Learning by using Deep Neural Networ
             -  [0,1,0,0]: Take Action
 
 
-![Framework](01-Reinforcement Learning/01-Snake Game AI/01-Information-Images/Framework.PNG)
+![alt text](01-Information-Images/Framework.PN?raw=true)
 
 <br>
 </br>
