@@ -91,7 +91,7 @@ Deep Q Learning - Extends the Reinforcement Learning by using Deep Neural Networ
             -  [0,1,0,0]: Take Action
 
 
-![alt text](01-Information-Images/Framework.PN?raw=true)
+![alt text](01-Information-Images/Framework.PNG?raw=true)
 
 <br>
 </br>
