@@ -66,7 +66,7 @@ Deep Q Learning - Extends the Reinforcement Learning by using Deep Neural Networ
 - [ ]  Rewards
     - eat food: +10
     - game over: -10
-    - elseL 0
+    - else: 0
 
 - [ ]  Action (determines the next move)
     - [1,0,0] keep-straight
