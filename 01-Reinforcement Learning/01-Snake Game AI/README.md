@@ -27,11 +27,11 @@ Deep Q Learning - Extends the Reinforcement Learning by using Deep Neural Networ
 - [ ]  Learn the Theory
     - RL teaches the 'Agent' how to behave in a set environment based on how good it is performing.
 - [ ]  Build the Enviroment
-    - 
+    - ...
 - [ ]  Build the Agent
-    -  
+    - ...
 - [ ]  Build the Model
-    - 
+    - ...
 
 
 # Framework:
