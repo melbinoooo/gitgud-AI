@@ -127,7 +127,7 @@ Deep Q Learning - Extends the Reinforcement Learning by using Deep Neural Networ
     - [4] Update Q Value (+train Model)
       - Add a **loss function or determinant to start over** (low score, collisions, etc), to continue the training loop.
 
-- [ ]  **Loss Function: Bellman Equation** 
+- [ ]  **Updating Q Value: Bellman Equation** 
     - Initialize the Q Value (a.k.a the model)
     - Qnew(s,a) **=** Q(s,a) **+** α [R(s', a') **+** γ maxQ'(s′,a′) **−** Q(s,a)]
       - 
